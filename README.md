@@ -982,3 +982,6 @@ MIT — see [LICENSE](./LICENSE) for the full text.
 
 <!-- handsoff-issue-760 -->
 - #760: Restore four deleted `release_partial` tests (orphaned snapshots still exist)
+
+<!-- handsoff-issue-761 -->
+- #761: Restore three deleted `agreement_completed` tests

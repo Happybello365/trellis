@@ -979,3 +979,6 @@ MIT — see [LICENSE](./LICENSE) for the full text.
 
 <!-- handsoff-issue-759 -->
 - #759: Add a `version()` view to the contract
+
+<!-- handsoff-issue-760 -->
+- #760: Restore four deleted `release_partial` tests (orphaned snapshots still exist)

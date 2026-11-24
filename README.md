@@ -976,3 +976,6 @@ MIT — see [LICENSE](./LICENSE) for the full text.
 
 <!-- handsoff-issue-756 -->
 - #756: Simplify `pull_funds`: `amount` and `expected` are always the same value
+
+<!-- handsoff-issue-759 -->
+- #759: Add a `version()` view to the contract

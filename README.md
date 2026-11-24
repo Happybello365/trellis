@@ -971,3 +971,8 @@ MIT — see [LICENSE](./LICENSE) for the full text.
 </svg>
 
 </div>
+
+## Handsoff notes
+
+<!-- handsoff-issue-756 -->
+- #756: Simplify `pull_funds`: `amount` and `expected` are always the same value
